@@ -53,3 +53,8 @@ That is because you will all be doing a hybrid job of managing a thing while wor
 And that is about all you need to get started.
 
 Good skill and be creative!
+
+## Team Roles
+Abigail Marlett - Plan Manager
+Mariana Rodriguez - Project Manager
+Anki Shenoy - Review Manager
