@@ -1,7 +1,7 @@
 {
-  "name": "final-project-group12",
+  "name": "What Should I Wear Today?",
   "version": "1.0.0",
-  "description": "",
+  "description": "A weather clothing app",
   "main": "index.js",
   "directories": {
     "doc": "docs"
