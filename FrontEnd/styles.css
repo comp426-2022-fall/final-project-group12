@@ -5,6 +5,22 @@
     align-items: center;
     flex-direction: column; 
 }
+.header2{
+    padding: 30%;
+    background: linear-gradient(to right,rgb(162, 206, 235) 30%, rgb(255, 255, 255));
+    height: 80vh;
+
+}
+.buttonHome{
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: .5%;
+}
 
 h1{
     color: black;
@@ -35,7 +51,7 @@ footer{
 
 
 a:hover{
-    background-color: rgb(255, 253, 160);
+    background-color: rgb(255, 255, 225);
     transition: all 600ms;
 }
 
@@ -50,8 +66,8 @@ h6 {
     
   }
 
-input[type="text"],
-input[type="email"],
+input[type="number"],
+input[type="number"],
 
 select {
     background: rgba(255, 255, 255, 0.1);
