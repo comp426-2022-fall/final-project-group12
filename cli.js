@@ -6,6 +6,7 @@ import fetch from "node-fetch";
 
 const args = minimist(process.argv.slice(2))
 let timezone = moment.tz.guess()
+let lattitude = document.getElementById("lattitude");
 
 if (args.h) {
     console.log("Usage: whatToWear.js [options] -[n|s] LATITUDE -[e|w] LONGITUDE -z TIME_ZONE")
