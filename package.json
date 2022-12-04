@@ -1,11 +1,7 @@
 {
   "name": "What Should I Wear Today?",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "This project will take in the weather conditions of the day and provide a reccomendation of what to wear",
-=======
-  "description": "A weather clothing app",
->>>>>>> 2b4c616c29f63607ca6294c00b038c4562d3679f
   "main": "index.js",
   "type": "module",
   "dependencies": {
