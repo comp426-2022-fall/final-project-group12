@@ -1,59 +1,34 @@
-# a99 Final Project
+## a99-Group12
 
+## What Should I Wear Today?
 
 ## Summary 
+This project will take in the user’s coordinates and will provide a recommendation of what to wear according to the current weather conditions of the day. We hope that this weather based clothing app will support users by saving them time each morning and making their day a little less stressful.   
 
-COMP426 final project template boilerplate.
-All your code and documentation goes here.
-Change this text to be a brief description of your final project.
-Put the name of your project in the header above.
-You will change everything below to be the main technical documentation, as outlined below.
+## Demo
+ // video_link (set up later)
 
-## First steps
+## Preview 
+//
 
-Other steps that you will need to take after your team has accepted the assignment:
-
-1. Choose a license and update the LICENSE file accordingly. 
-2. Edit this README.md file and use it as the main location of your technical documentation with links out to information contained under `/docs/`.
-3. Create a `/docs/` directory for more elaborate documentation of your API, planning notes, etc.
-4. Make sure that all of your team members have access to the repository as administrators.
-5. Create a project under the **Projects** tab. Use this to manage your planning. Create a To-do list, etc. Explore the tools available and user them to manage your project.
-7. Assign team roles and include a listing of those roles in this README.md file or in another file under `/docs/`.
-8. Then put your entire development workflow in this repository.
-9. Use **Pull requests** to propose changes and incorporate them into your code from various team members. 
-10. Use **Issues** to identify and track bugs and also to communicate about various aspects of the project.
-
-## Team mangement
-
-Plan to meet with your team ASAP.
-Talk through identifying roles within your team.
-
-Try to figure out what each of you are good at/enjoy doing and try to work out roles that incorporate that.
-
-Some basic roles you will want to consider:
-
-1. A review manager - someone to review pull requests and merge or reject them and manage the related discussions
-2. A plan manager - someone to keep an eye on the overall plan and keep the project tab/to-do list up to date
-3. A documentation manager - someone to keep the documentation in order and identify what is missing and needs to be documented
-4. A release manager - someone to manage the packaging and release process for your prototype package
-5. A project manager - someone keeping track of all the moving parts and make sure that everything that needs to happen is happening.
-5. Roles for team members to take charge or different parts of the project. Possible roles:
-    1. Front end lead
-    2. Back end lead
-    3. Database lead
-    4. Design lead
-    5. Etc.
-
-You will notice that there are more roles than people in your group.
-That is because you will all be doing a hybrid job of managing a thing while working on other things.
-
-## Assignment instructions
-
-And that is about all you need to get started.
-
-Good skill and be creative!
+## Setting Up 
+1. Clone the repository
+2. Run npm install (install the dependencies needed for this project)
+3. Run npm start
+4. ….
+5. …..
 
 ## Team Roles
-Abigail Marlett - Plan Manager
-Mariana Rodriguez - Project Manager
-Anki Shenoy - Review Manager
+Refer to this file under docs for more specific information and other group planning (link our file)
+- Abigail Marlet: Plan Manager
+- Mariana Rodriguez: Project Manage
+- Anki Shenoy: Review Manager
+
+## Dependencies
+* minimist
+* node-fetch
+* moment-timezone
+
+## Future Extensions 
+-  
+
