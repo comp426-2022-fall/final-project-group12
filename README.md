@@ -9,7 +9,9 @@ This project will take in the user’s coordinates and will provide a recommenda
  // video_link
 
 ## Preview 
-![Preview_picture](https://user-images.githubusercontent.com/69760537/205511619-02c5eaf1-8cfc-4413-be26-4580db1d18eb.jpeg)
+<img width="486" alt="Preview_of_images" src="https://user-images.githubusercontent.com/69760537/205512102-d7d7c162-e4b4-4bf9-ac81-8e354432f9dc.png">
+
+
 
 ## Setting Up 
 1. Clone the repository
