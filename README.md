@@ -9,7 +9,10 @@ This project will take in the user’s coordinates and will provide a recommenda
 
 
 ## Preview 
-<img width="486" alt="Preview_of_images" src="https://user-images.githubusercontent.com/69760537/205512102-d7d7c162-e4b4-4bf9-ac81-8e354432f9dc.png">
+![PNG image 6](https://user-images.githubusercontent.com/69760537/206335215-222a0877-6d6f-473f-80c4-c402fbb5d80d.jpeg)
+![PNG image 3](https://user-images.githubusercontent.com/69760537/206335225-7b0c7684-20ab-4640-818c-77d8de869ef4.jpeg)
+![PNG image 5](https://user-images.githubusercontent.com/69760537/206335255-a07e6541-5909-4da2-9d77-e3d36415a01e.jpeg)
+![PNG image 4](https://user-images.githubusercontent.com/69760537/206335269-49a90eb4-a1ff-4679-b1b7-31031a25064c.jpeg)
 
 
 
