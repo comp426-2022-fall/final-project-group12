@@ -4,10 +4,13 @@ import moment from "moment-timezone";
 import minimist from "minimist";
 import fetch from "node-fetch";
 import express from "express"
+import Database from 'better-sqlite3';
+
 
 const args = minimist(process.argv.slice(2))
 let timezone = moment.tz.guess()
 const app = express();
+const db = new Database('logData.db');
 
 // help description
 const port= args.port||5000;
