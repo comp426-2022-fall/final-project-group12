@@ -14,7 +14,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+    "test": "node cli.js --port=5555"
   },
   "repository": {
     "type": "git",
