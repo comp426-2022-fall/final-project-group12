@@ -17,8 +17,8 @@ This project will take in the user’s coordinates and will provide a recommenda
 1. Clone the repository
 2. Run npm install (install the dependencies needed for this project)
 3. Run npm start
-4. …
-5. …
+4. Open index.html in folder "FrontEnd"
+5. Enter your lattitude and longitude points of your location in the form, click "Submit", and see your results! 
 
 ## Team Roles
 Refer to this file under docs for more specific information and other group planning (link our file)
