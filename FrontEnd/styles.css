@@ -119,7 +119,8 @@ h6 {
   }
 
 input[type="number"],
-input[type="number"],
+input[type="password"],
+input[type="email"],
 
 select {
     background: rgba(255, 255, 255, 0.1);
@@ -169,6 +170,34 @@ button {
 
   
 button:hover {
+    background-position: 100% 0%;
+  }
+
+.submit {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    padding: 19px 39px 18px 39px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to right,rgb(162, 206, 235) 30%, rgb(255, 255, 255));
+    background-size: 200%;
+    border-radius: 0.5rem;
+    background-position: 0% 0%;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    border:none;
+    width: 100%;
+    margin-bottom: 10px;
+    transition: all 350ms;
+  
+}
+
+  
+.submit:hover {
     background-position: 100% 0%;
   }
 
