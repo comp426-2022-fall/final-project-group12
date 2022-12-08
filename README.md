@@ -6,7 +6,7 @@
 This project will take in the user’s coordinates and will provide a recommendation of what to wear according to the current weather conditions of the day. We hope that this weather based clothing app will support users by saving them time each morning and making their day a little less stressful.   
 
 ## Demo
-
+https://youtu.be/5ZEL-3MsXdQ
 
 ## Preview 
 <img width="477" alt="Screenshot 2022-12-07 at 8 41 11 PM" src="https://user-images.githubusercontent.com/69760537/206336366-7e37ad50-2fea-4b55-ab87-7e0292f693d8.png">
