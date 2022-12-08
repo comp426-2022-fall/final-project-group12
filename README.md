@@ -32,6 +32,5 @@ Refer to this file under docs for more specific information and other group plan
 * node-fetch
 * moment-timezone
 
-## Future Extensions 
--  
+ 
 
