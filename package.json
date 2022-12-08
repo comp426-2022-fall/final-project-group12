@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "express": "^4.18.2",
     "minimist": "^1.2.7",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.37",
