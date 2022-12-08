@@ -6,10 +6,62 @@
     flex-direction: column; 
 }
 .header2{
-    padding: 30%;
+    padding: 10%;
     background: linear-gradient(to right,rgb(162, 206, 235) 30%, rgb(255, 255, 255));
-    height: 80vh;
+    height: 800px;
+    display: flex;
+    align-self: start;
+    flex-direction: column;
 
+}
+.entryGuest{
+    text-decoration: none;
+    width: 30%;
+    height:10vh;
+    padding: 19px 39px 18px 39px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to right,rgb(162, 206, 235) 30%, rgb(255, 255, 255));
+    background-size: 200%;
+    border-radius: 0.5rem;
+    background-position: 0% 0%;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    border:none;
+    margin-bottom: 10px;
+    transition: all 350ms;
+}
+.entryGuest:hover {
+    background-position: 100% 0%;
+  }
+.account{
+    text-decoration: none;
+    display: flex;
+    width: 30%;
+    height: 10vh;
+    padding: 19px 39px 18px 39px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to right,rgb(162, 206, 235) 30%, rgb(255, 255, 255));
+    background-size: 200%;
+    border-radius: 0.5rem;
+    background-position: 0% 0%;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    border:none;
+    margin-bottom: 10px;
+    transition: all 350ms;
+}
+.account:hover {
+    background-position: 100% 0%;
+  }
+.buttons{
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+    padding-top: 10vh;
 }
 .buttonHome{
     border: none;

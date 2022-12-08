@@ -13,24 +13,19 @@
 
 <body>
     <script src = "../cli.js"> </script>
-    <div class="grid-layout">
+    <div class="buttonsOptions">
             <div class="header"> 
                 <h1>What Should You Wear Today?</h1>
-                <p>Enter your lattitude and longitude coordinates below, and we will give you a clothing suggestion given your weather conditions.</p>
+                <p>Would you like to create an account or continue as guest? If you create an account we can remember your location for next time!</p>
             </div>
-            <form method="POST" action="test.js" id = "myForm">
-                <h2>Enter your information below: </h2>
-                <fieldset>
-                  <label for="lattitude">Your lattitude: </label>
-                  <input type="number" id="lattitude" name="lattitude" placeholder="" value="" required>
-                  <label for="longitude">Your longitude: </label>
-                  <input type="number" id="longitude" name="longitude" placeholder="" value="" required>
-                </fieldset>
-                <button type="submit">Submit</button>
-              </form>
-            <footer> 
-                Come again tomorrow!
-            </footer>
+            <div class="buttons">
+            <a class = "button entryGuest" href = "guest.html">
+                Continue As Guest
+            </a>
+            <a class = "account" href = "createAccount.html">
+                Create an Account
+            </a>
+        </div>
         </div>
      
 

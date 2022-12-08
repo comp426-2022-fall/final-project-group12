@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" 
+    content="text/html; charset=UTF-8" />
+    <title>What to Wear Today</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap" rel="stylesheet">
+   
+</head>
+
+<body>
+    <script src = "../cli.js"> </script>
+    <div class="grid-layout">
+            <div class="header"> 
+                <h1>What Should You Wear Today?</h1>
+                <p>Enter your lattitude and longitude coordinates below, and we will give you a clothing suggestion given your weather conditions.</p>
+            </div>
+            <form method="POST" action="cli.js" id = "myForm">
+                <h2>Enter your information below: </h2>
+                <fieldset>
+                  <label for="lattitude">Your lattitude: </label>
+                  <input type="number" id="lattitude" name="lattitude" placeholder="" value="" required>
+                  <label for="longitude">Your longitude: </label>
+                  <input type="number" id="longitude" name="longitude" placeholder="" value="" required>
+                </fieldset>
+                <button type="submit">Submit</button>
+              </form>
+            <footer> 
+                Come again tomorrow!
+            </footer>
+        </div>
+     
+
+</body>
+</html>
